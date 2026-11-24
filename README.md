@@ -9,6 +9,8 @@ files only; it contains no source code.
 | Sapherbox Sync | macOS | [SapherboxSync-macOS.zip](https://github.com/jetned/sapherbox-downloads/releases/download/sync-latest/SapherboxSync-macOS.zip) |
 | Sapherbox Sync | Linux (Debian/Ubuntu, amd64) | [SapherboxSync-linux-amd64.deb](https://github.com/jetned/sapherbox-downloads/releases/download/sync-latest/SapherboxSync-linux-amd64.deb) |
 | Sapherbox Desktop for Mac | macOS | [Sapherbox-macOS.dmg](https://github.com/jetned/sapherbox-downloads/releases/download/macos-latest/Sapherbox-macOS.dmg) |
+| Sapherbox Desktop for Windows | Windows | coming soon |
+
 
 The same files are linked from the Clients page of every Sapherbox
 (Preferences → Clients).
