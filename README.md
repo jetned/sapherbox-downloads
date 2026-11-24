@@ -10,6 +10,7 @@ files only; it contains no source code.
 | Sapherbox Sync | Linux (Debian/Ubuntu, amd64) | [SapherboxSync-linux-amd64.deb](https://github.com/jetned/sapherbox-downloads/releases/download/sync-latest/SapherboxSync-linux-amd64.deb) |
 | Sapherbox Desktop for Mac | macOS | [Sapherbox-macOS.dmg](https://github.com/jetned/sapherbox-downloads/releases/download/macos-latest/Sapherbox-macOS.dmg) |
 | Sapherbox Desktop for Windows | Windows | coming soon |
+| Sapherbox Outlook add-in | Outlook on the web, Outlook for Windows and Mac | Install via tenant-provided manifest |
 
 
 The same files are linked from the Clients page of every Sapherbox
