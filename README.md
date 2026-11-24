@@ -11,7 +11,7 @@ files only; it contains no source code.
 | Sapherbox for Mac | macOS | [Sapherbox-macOS.dmg](https://github.com/jetned/sapherbox-downloads/releases/download/macos-latest/Sapherbox-macOS.dmg) |
 
 The same files are linked from the Clients page of every Sapherbox
-(Preferences → Clients) and from `https://www.sapherbox.com/download/…`.
+(Preferences → Clients).
 
 ## How this repository works
 
